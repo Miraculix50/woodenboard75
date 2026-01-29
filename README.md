@@ -19,8 +19,10 @@ Feel free to [build it yourself](#parts).
 * [Switches x83](https://keeb.supply/products/invokeys-matcha-reserve-switches)
 * [Keycaps for 75%-layout](https://monacokeys.de/products/monacokeys-mk-retro-beige-pbt-keycap-set)
 
-### Wooden case
+### Wooden case & knob (files avaible in [CAD folder](/CAD)
 * Magnets (4mm diameter + 8mm height) x8
 * Top case
 * Bottom case
 * Knob
+
+All links are just examples.
