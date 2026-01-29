@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "MX-Hotswap")(type "KiCad")(uri "${KIPRJMOD}/libraries/MX_V2/symbols/MX-Hotswap.kicad_sym")(options "")(descr ""))
+)
