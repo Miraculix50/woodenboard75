@@ -3,6 +3,9 @@ An ISO-DE 75 % keyboard with a wooden case and knob.
 
 ![Wooden keyboard](/img/top.png)
 
+It's definetly not perfect and could be optimized, but for me it works.
+Feel free to [build it yourself](#parts).
+
 ## Parts
 ### PCB
 * PCB
