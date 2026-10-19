@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MX_Hotswap") (type "KiCad") (uri "${KIPRJMOD}/../libraries/MX_V2/MX_Hotswap.pretty") (options "") (descr ""))
+	(lib (name "rotary-encoder-PEC11R-main") (type "KiCad") (uri "${KIPRJMOD}/../libraries/rotary-encoder-PEC11R-main.pretty") (options "") (descr ""))
+)
