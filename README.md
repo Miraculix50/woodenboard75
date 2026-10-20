@@ -1,7 +1,7 @@
 # Wooden Keyboard
 An ISO-DE 75 % keyboard with a wooden case and knob.
 
-![Wooden keyboard](/assets/top.png)
+![Wooden keyboard](/assets/top_rgb.jpeg)
 
 It's definitely not perfect and I'm sure it could be optimized, but for me it's working great.
 Feel free to [build it yourself](#parts).
@@ -45,3 +45,7 @@ Pay attention to the different versions, since the RGB-version of the PCB is not
 This keyboard uses the [QMK Firmware](https://qmk.fm). To get started see the [QMK docs](https://docs.qmk.fm/).
 
 Note that you have to copy the contents of `qmk/keyboards/` to your local qmk clone / fork.
+
+## Images
+
+<img src="/assets/top.png" width="45%"></img> <img src="/assets/pcb_back.jpeg" width="45%"></img> <img src="/assets/arrow_keys.jpeg" width="45%"></img> <img src="/assets/back.jpeg" width="45%"></img> <img src="/assets/top_rgb.jpeg" width="45%"></img> <img src="/assets/top_open_rgb.jpeg" width="45%"></img> <img src="/assets/side_rgb.jpeg" width="45%"></img> <img src="/assets/front_rgb.jpeg" width="45%"></img>
