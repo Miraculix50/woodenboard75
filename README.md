@@ -19,7 +19,10 @@ Feel free to [build it yourself](#parts).
 
 **RGB version:**
 * RGB-version PCB (when ordering, upload the [gerber files](/pcb/kicad/woodenboard75_rgb/production/keyboard.zip))
-* SK6812 MINI-E LEDs
+* SK6812 MINI-E LEDs x83
+* 330 Ω resistor x1
+* 100 nF capacitor (SMD 0603) x83
+* 22 µF capacitor (SMD 1206) x1
 
 ### Keys
 * [Switches x83](https://keeb.supply/products/invokeys-matcha-reserve-switches)
