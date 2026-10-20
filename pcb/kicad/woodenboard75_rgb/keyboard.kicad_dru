@@ -1,0 +1,4 @@
+(version 1)
+(rule "Avoid sharp angles"
+	(constraint track_angle (min 89) (max 271))
+	(severity warning))
